@@ -1,0 +1,16 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+
+#
+/.vs
+/pdftxt/obj
+/pdftxt/Properties
+/pdftxt/*.pfx
+/pdftxt/bin/Debug
+/pdftxt/bin/Release/app.publish
+/pdftxt/bin/Release/*.xml
+/pdftxt/bin/Release/*.application
+/pdftxt/bin/Release/*.config
+/pdftxt/bin/Release/*.manifest
+/pdftxt/bin/Release/*.pdb
+
